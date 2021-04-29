@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thijsvanderwoude!
-- 👀 I’m interested in programming, weightlifting and cars.
+- 👀 I’m interested in programming, retro things, weightlifting and cars.
 - 🌱 I’m currently working on an operating system, Drupal sites and much more.
 
 <!---
