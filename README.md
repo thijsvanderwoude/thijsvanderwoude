@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thijsvanderwoude!
 - 👀 I’m interested in programming, retro things, weightlifting and cars.
-- 🌱 I’m currently working on an operating system, Drupal sites and much more.
+- 🌱 I’m currently working on a hobby operating system, Drupal sites and much more.
 
 <!---
 thijsvanderwoude/thijsvanderwoude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
