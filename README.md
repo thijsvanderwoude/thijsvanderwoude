@@ -3,7 +3,7 @@
 </h1>
 <p align='center'>I'm a full stack webdeveloper from the Netherlands 🇳🇱</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/thijsvanderwoude/">
+  <a href="https://www.linkedin.com/in/thijsvanderwoude/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
