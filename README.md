@@ -1,7 +1,7 @@
 <h1 align='center'>
-  Hi there, I'm Thijs.
+  Hi there! My name is Thijs van der Woude.
 </h1>
-<p align='center'>I'm a full stack webdeveloper from the Netherlands 🇳🇱</p>
+<p align='center'>I'm a freelance full stack (e-commerce) webdeveloper from the Netherlands 🇳🇱</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/thijsvanderwoude/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
