@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=manjaro&logoColor=white">
 <img src="https://img.shields.io/badge/Intel%20Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 
 
 ## My tech stack
